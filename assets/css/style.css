@@ -493,6 +493,7 @@ nav.sticky {
 
   .gallery ul li {
     height: 200px;
+    margin-top: 10px;
   }
 
   #modal .content {
